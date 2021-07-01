@@ -2,9 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodyvirgiawan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodyvirgiawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodyvirgiawan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redbaron212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dodyvirgiawan/dodyvirgiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

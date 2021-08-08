@@ -26,7 +26,7 @@ Things I code with:
 
 Other tools I'm also familiar with:
 <p>
-  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-e373f7?style=flat-square&logo=adobepremierepro&logoColor=white" />
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-e373f7?style=flat-square&logo=adobepremierepro&logoColor=black" />
   <img alt="Sony Vegas Pro" src="https://img.shields.io/badge/-Vegas Pro-1090c9?style=flat-square&logo=vegaspro&logoColor=black" />
 </p>
 

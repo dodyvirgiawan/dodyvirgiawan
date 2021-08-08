@@ -4,10 +4,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dodyvirgiawan)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dody.virgiawan97@gmail.com)
 
+My name is **Dody Virgiawan**, I'm currently pursuing my career as a Software Engineer as I really enjoy the process of programming/coding. I enjoy solving complex problem and translates them into structured language and/or algorithms. I really believe programming is my perfect medium to give my contribution to the world, as I enjoy provide solutions for problems.
 
-My name is **Dody Virgiawan**, I'm currently pursuing my career as a Software Engineer. 
+Other than coding, I also like to spent my time honing my right brain skills by playing piano, and doing photography and videography.
 
-Things I code with:
+## Things I'm familiar with:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -17,19 +18,23 @@ Things I code with:
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-ffffff?style=flat-square&logo=Express&logoColor=black" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-03afef?style=flat-square&logo=Sequelize&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0865a6?style=flat-square&logo=jQuery&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-f76935?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffcb2b?style=flat-square&logo=firebase&logoColor=black" />
+  <img alt="RESTful API" src="https://img.shields.io/badge/-RESTful API-212529?style=flat-square&logo=rest&logoColor=white" />
+  <img alt="Object Oriented Programming" src="https://img.shields.io/badge/-Object Oriented Programming-212529?style=flat-square&logo=OOP&logoColor=white" />
+  <img alt="MVC Design Patterns" src="https://img.shields.io/badge/-MVC Design Patterns-212529?style=flat-square&logo=MVC&logoColor=white" />
 </p>
 
-Other tools I'm also familiar with:
+## Other tools I'm also familiar with:
 <p>
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-e373f7?style=flat-square&logo=adobepremierepro&logoColor=black" />
   <img alt="Sony Vegas Pro" src="https://img.shields.io/badge/-Vegas Pro-1090c9?style=flat-square&logo=vegaspro&logoColor=black" />
 </p>
 
-
+##
 [![dodyvirgiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodyvirgiawan&theme=dark&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![dodyvirgiawan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodyvirgiawan&theme=dark&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

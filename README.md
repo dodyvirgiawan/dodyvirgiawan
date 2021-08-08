@@ -33,6 +33,8 @@ Other than coding, I also like to spent my time honing my right brain skills by 
 <p>
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-e373f7?style=flat-square&logo=adobepremierepro&logoColor=black" />
   <img alt="Sony Vegas Pro" src="https://img.shields.io/badge/-Vegas Pro-1090c9?style=flat-square&logo=vegaspro&logoColor=black" />
+  <img alt="Matlab" src="https://img.shields.io/badge/-MATLAB-f67e10?style=flat-square&logo=matlab&logoColor=white" />
+  <img alt="Pawn" src="https://img.shields.io/badge/-PAWN Language-c59d70?style=flat-square&logo=pawn&logoColor=black" />
 </p>
 
 ##

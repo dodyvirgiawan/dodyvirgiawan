@@ -7,4 +7,6 @@
 
 My name is **Dody Virgiawan**, I'm currently pursuing my career as a Software Engineer. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodyvirgiawan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![dodyvirgiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodyvirgiawan&theme=dark&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![dodyvirgiawan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodyvirgiawan&theme=dark&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

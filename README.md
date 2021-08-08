@@ -24,7 +24,7 @@ I always see myself as a hardworker and fast learner who has high curiosity and 
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-f76935?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffcb2b?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="RESTful API" src="https://img.shields.io/badge/-RESTful API-212529?style=flat-square&logo=rest&logoColor=white" />
+  <img alt="RESTful API" src="https://img.shields.io/badge/-REST API-212529?style=flat-square&logo=rest&logoColor=white" />
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/-Object Oriented Programming-212529?style=flat-square&logo=OOP&logoColor=white" />
   <img alt="MVC Design Patterns" src="https://img.shields.io/badge/-MVC Design Patterns-212529?style=flat-square&logo=MVC&logoColor=white" />
 </p>

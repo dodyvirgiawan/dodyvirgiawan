@@ -7,6 +7,29 @@
 
 My name is **Dody Virgiawan**, I'm currently pursuing my career as a Software Engineer. 
 
+Things I code with:
+<p>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS-254bdd?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7710f1?style=flat-square&logo=Bootstrap&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-ffffff?style=flat-square&logo=Express&logoColor=black" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-03afef?style=flat-square&logo=Sequelize&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-f76935?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffcb2b?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+Other tools I'm also familiar with:
+<p>
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-e373f7?style=flat-square&logo=adobepremierepro&logoColor=white" />
+  <img alt="Sony Vegas Pro" src="https://img.shields.io/badge/-Vegas Pro-1090c9?style=flat-square&logo=vegaspro&logoColor=black" />
+</p>
+
 
 [![dodyvirgiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodyvirgiawan&theme=dark&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![dodyvirgiawan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodyvirgiawan&theme=dark&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

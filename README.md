@@ -21,6 +21,8 @@ I always see myself as a hardworker and fast learner who has high curiosity and 
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0865a6?style=flat-square&logo=jQuery&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual Studio Code-2389cb?style=flat-square&logo=visualstudiocode" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-f76935?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffcb2b?style=flat-square&logo=firebase&logoColor=black" />

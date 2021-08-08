@@ -8,7 +8,7 @@ My name is **Dody Virgiawan**, I'm currently pursuing my career as a Software En
 
 Having a passionate and enthusiastic soul with can-do principle, I also believe that I should bring an impactful contribution to the people and the world, and I really believe programming is my perfect medium to do just that, that is to provide solutions for existing problems.
 
-## Things I'm familiar with:
+## Things I'm currently familiar with:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />

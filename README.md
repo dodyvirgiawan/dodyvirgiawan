@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dodyvirgiawan)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dody.virgiawan97@gmail.com)
 
-My name is **Dody Virgiawan**, I'm currently pursuing my career as a Software Engineer. I really enjoy the process and experience when you code to solve complex problem and translates them into algorithms. I believe that I should bring an impactful contribution to the people and the world, and I really believe programming is my perfect medium to do just that, that is to develop solutions for existing problems.
+My name is **Dody Virgiawan**, I'm currently pursuing my career as a Software Engineer. I really enjoy the process and experience when you code to solve complex problem and translates them into algorithms. I believe that programming is the perfect medium for me to bring an impactful contribution to the world, that is to develop solutions for existing problems!
 
 Nice to e-meet you! :)
 

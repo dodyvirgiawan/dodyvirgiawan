@@ -39,6 +39,6 @@ My name is **Dody Virgiawan**, I'm currently pursuing my career as a Software En
 </p>
 
 ##
-[![dodyvirgiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodyvirgiawan&theme=dark&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![dodyvirgiawan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redbaron212&theme=dark&layout=compact@range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+[![dodyvirgiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodyvirgiawan&theme=dark&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 

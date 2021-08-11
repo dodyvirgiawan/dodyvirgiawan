@@ -6,6 +6,8 @@
 
 My name is **Dody Virgiawan**, I'm currently pursuing my career as a Software Engineer. I really enjoy the process and experience when you code to solve complex problem and translates them into algorithms. I believe that I should bring an impactful contribution to the people and the world, and I really believe programming is my perfect medium to do just that, that is to develop solutions for existing problems.
 
+Nice to e-meet you! :)
+
 ## Things I'm currently familiar with:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black" />

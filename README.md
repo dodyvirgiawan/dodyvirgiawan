@@ -20,6 +20,7 @@ Nice to e-meet you! :)
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-03afef?style=flat-square&logo=Sequelize&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0865a6?style=flat-square&logo=jQuery&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-15c213?style=flat-square&logo=jest&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
@@ -30,6 +31,8 @@ Nice to e-meet you! :)
   <img alt="RESTful API" src="https://img.shields.io/badge/-REST API-212529?style=flat-square&logo=rest&logoColor=white" />
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/-Object Oriented Programming-212529?style=flat-square&logo=OOP&logoColor=white" />
   <img alt="MVC Design Patterns" src="https://img.shields.io/badge/-MVC Design Patterns-212529?style=flat-square&logo=MVC&logoColor=white" />
+  <img alt="Test Driven Development" src="https://img.shields.io/badge/-Test Driven Development-212529?style=flat-square&logo=MVC&logoColor=white" />
+  <img alt="Client Server Model" src="https://img.shields.io/badge/-Client Server Model-212529?style=flat-square&logo=MVC&logoColor=white" />
 </p>
 
 ## Other tools I'm also familiar with:

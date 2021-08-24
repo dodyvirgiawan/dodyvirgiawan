@@ -14,6 +14,7 @@ Nice to e-meet you! :)
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-254bdd?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat-square&logo=TailwindCSS&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7710f1?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-33475b?style=flat-square&logo=Vue.js" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-ffffff?style=flat-square&logo=Express&logoColor=black" />

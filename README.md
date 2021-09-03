@@ -14,6 +14,7 @@ Hello! My name is **Dody Virgiawan**, nice to e-meet you! :)
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat-square&logo=TailwindCSS&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7710f1?style=flat-square&logo=Bootstrap&logoColor=white" />
+  <img alt="React.js" src="https://img.shields.io/badge/-React.js-20232a?style=flat-square&logo=React" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-33475b?style=flat-square&logo=Vue.js" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-ffffff?style=flat-square&logo=Express&logoColor=black" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-03afef?style=flat-square&logo=Sequelize&logoColor=white" />

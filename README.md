@@ -34,14 +34,3 @@ Hello! My name is **Dody Virgiawan**, nice to e-meet you!
   <img alt="Client Server Model" src="https://img.shields.io/badge/-Client Server Model-212529?style=flat-square&logo=MVC&logoColor=white" />
 </p>
 
-## Other tools I'm also familiar with:
-<p>
-  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-e373f7?style=flat-square&logo=adobepremierepro&logoColor=black" />
-  <img alt="Sony Vegas Pro" src="https://img.shields.io/badge/-Vegas Pro-1090c9?style=flat-square&logo=vegaspro&logoColor=black" />
-  <img alt="Matlab" src="https://img.shields.io/badge/-MATLAB-f67e10?style=flat-square&logo=matlab&logoColor=black" />
-  <img alt="Pawn" src="https://img.shields.io/badge/-PAWN Language-45311b?style=flat-square&logo=pawn&logoColor=black" />
-</p>
-
-##
-[![dodyvirgiawan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redbaron212&theme=dark&layout=compact@range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
-

@@ -8,6 +8,7 @@ Hello! My name is **Dody Virgiawan**, nice to e-meet you!
 ## Things I'm currently familiar with:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2f74c0?style=flat-square&logo=Typescript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-254bdd?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
